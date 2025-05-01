@@ -161,7 +161,7 @@
 
 ## Ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [localhots/musicbrainz](https://github.com/localhots/musicbrainz) - MusicBrainz Web Service client
 - [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) - :christmas_tree: Giving back to open source for the holidays
 - [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
