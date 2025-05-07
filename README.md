@@ -161,6 +161,7 @@
 
 ## Ruby 
 
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [localhots/musicbrainz](https://github.com/localhots/musicbrainz) - MusicBrainz Web Service client
 - [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) - :christmas_tree: Giving back to open source for the holidays
@@ -200,6 +201,7 @@
 
 ## TypeScript 
 
+- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-Hosted, Personal Music Server, designed for collectors and music maniacs
 - [abayomi185/astrysk-packages](https://github.com/abayomi185/astrysk-packages) - Unifying your Selfhosted Experience
