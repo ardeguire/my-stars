@@ -396,6 +396,7 @@
 
 ## others 
 
+- [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [bambanah/deemix](https://github.com/bambanah/deemix) - 
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
