@@ -143,6 +143,7 @@
 
 ## Python 
 
+- [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [clemcer/loggifly](https://github.com/clemcer/loggifly) - Monitor Docker Logs and send Notifications
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
