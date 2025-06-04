@@ -134,7 +134,7 @@
 
 ## PHP 
 
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you
 
 ## Perl 
