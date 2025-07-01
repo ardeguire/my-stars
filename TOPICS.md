@@ -397,6 +397,7 @@
 
 ## others 
 
+- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [bambanah/deemix](https://github.com/bambanah/deemix) - 
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
