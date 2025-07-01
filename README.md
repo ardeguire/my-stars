@@ -114,6 +114,7 @@
 
 ## Jinja 
 
+- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Lua 
