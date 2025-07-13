@@ -114,7 +114,6 @@
 
 ## Jinja 
 
-- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Lua 
@@ -186,6 +185,7 @@
 
 ## Shell 
 
+- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [azolfagharj/DloadBox](https://github.com/azolfagharj/DloadBox) - DloadBox is a complete download management platform combining aria2c, Caddy, ariaNG, RPC integration, and a Telegram bot It offers a user-friendly web interface and remote control, enabling efficient 
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
