@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Lua](#lua)
+- [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -67,6 +68,7 @@
 
 ## Go 
 
+- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -114,11 +116,16 @@
 
 ## Jinja 
 
+- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Lua 
 
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
+
+## Mustache 
+
+- [itzg/minecraft-server-charts](https://github.com/itzg/minecraft-server-charts) - 
 
 ## Others 
 
@@ -185,7 +192,7 @@
 
 ## Shell 
 
-- [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [azolfagharj/DloadBox](https://github.com/azolfagharj/DloadBox) - DloadBox is a complete download management platform combining aria2c, Caddy, ariaNG, RPC integration, and a Telegram bot It offers a user-friendly web interface and remote control, enabling efficient 
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
