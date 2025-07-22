@@ -15,6 +15,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [cms](#cms)
 - [coding](#coding)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -148,6 +149,10 @@
 ## cli 
 
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## cms 
+
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## coding 
 
@@ -403,7 +408,7 @@
 ## others 
 
 - [itzg/minecraft-server-charts](https://github.com/itzg/minecraft-server-charts) - 
-- [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
+- [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [notclickable-jordan/rainhold](https://github.com/notclickable-jordan/rainhold) - Seattle self-hosted server configuration
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
