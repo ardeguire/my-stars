@@ -97,6 +97,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
+- [zsh](#zsh)
 
 ## android 
 
@@ -676,6 +677,10 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## zsh 
+
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 
 
 ## License
