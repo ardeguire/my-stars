@@ -149,6 +149,8 @@
 
 ## Python 
 
+- [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
+- [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
@@ -192,6 +194,7 @@
 
 ## Shell 
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [azolfagharj/DloadBox](https://github.com/azolfagharj/DloadBox) - DloadBox is a complete download management platform combining aria2c, Caddy, ariaNG, RPC integration, and a Telegram bot It offers a user-friendly web interface and remote control, enabling efficient 
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
