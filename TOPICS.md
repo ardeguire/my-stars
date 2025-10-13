@@ -89,7 +89,6 @@
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
-- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -107,6 +106,7 @@
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [webapp](#webapp)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -473,7 +473,6 @@
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 - [DumbWareio/DumbDrop](https://github.com/DumbWareio/DumbDrop) - dumb file dropper
 - [christomitov/soundbored](https://github.com/christomitov/soundbored) - Soundbored is an unlimited, no-cost, self-hosted soundboard for Discord. It allows you to play sounds in a voice channel.
-- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
 - [homeworkc/lazycast](https://github.com/homeworkc/lazycast) - A Simple Wireless Display Receiver
@@ -653,10 +652,6 @@
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 
-## sqlite 
-
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
-
 ## statistics 
 
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
@@ -742,6 +737,12 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## youtube 
+
+- [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
+- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## zsh 
 
