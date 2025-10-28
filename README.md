@@ -71,7 +71,7 @@
 
 ## Elixir 
 
-- [christomitov/soundbored](https://github.com/christomitov/soundbored) - Soundbored is an unlimited, no-cost, self-hosted soundboard for Discord. It allows you to play sounds in a voice channel.
+- [christomitov/soundbored](https://github.com/christomitov/soundbored) - Soundbored is an unlimited, self-hosted soundboard for Discord. It allows you to play sounds in a voice channel.
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 
 ## Go 
