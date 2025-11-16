@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -161,6 +162,8 @@
 
 ## Python 
 
+- [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
+- [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a local self hosted webui version of 8mb.video
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
@@ -243,7 +246,7 @@
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-Hosted, Personal Music Server, designed for collectors and music maniacs
 - [abayomi185/astrysk-packages](https://github.com/abayomi185/astrysk-packages) - Unifying your Selfhosted Experience
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [TBosak/mkfd](https://github.com/TBosak/mkfd) - RSS feed builder created with Bun🥖 and Hono🔥- builds from webpages, email folders, and REST API calls.
 - [Grashjs/cmms](https://github.com/Grashjs/cmms) - #1 Self hosted CMMS web & mobile application that allows you to manage enterprise maintenance for free - Computerized Maintenance Management System
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
