@@ -163,7 +163,7 @@
 ## Python 
 
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
-- [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a local self hosted webui version of 8mb.video
+- [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
