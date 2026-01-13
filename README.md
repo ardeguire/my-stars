@@ -81,7 +81,7 @@
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
-- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth
+- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source Auth0/Clerk/Firebase alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify's "Discover Weekly" for self-hosted music systems
