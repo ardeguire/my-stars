@@ -209,6 +209,7 @@
 
 ## Rust 
 
+- [madiele/vod2pod-rss](https://github.com/madiele/vod2pod-rss) - Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly an
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
