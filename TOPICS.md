@@ -626,6 +626,7 @@
 
 ## rust 
 
+- [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
