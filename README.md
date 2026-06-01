@@ -279,6 +279,7 @@
 
 ## Vue 
 
+- [45Drives/cockpit-file-sharing](https://github.com/45Drives/cockpit-file-sharing) - A Cockpit plugin to easily manage samba and NFS file sharing.
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 
 ## templ 
