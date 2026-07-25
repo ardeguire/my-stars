@@ -171,6 +171,7 @@
 
 ## Python 
 
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [grimthorpe/clbre](https://github.com/grimthorpe/clbre) - A fork of Calibre called Clbre, because the AI is stripped out.
