@@ -206,7 +206,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [treeio/treeio](https://github.com/treeio/treeio) - Tree.io
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## Ruby 
 
