@@ -40,6 +40,7 @@
 - [golang](#golang)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
 - [https](#https)
@@ -232,6 +233,7 @@
 
 ## docker 
 
+- [colfin22/intro-quiz](https://github.com/colfin22/intro-quiz) - Self-hosted "guess the intro" music quiz for family game night — plays your own Navidrome library on a cast TV or speaker, phones are the buzzers. Difficulty from your play counts + Last.fm. No cloud,
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [madiele/vod2pod-rss](https://github.com/madiele/vod2pod-rss) - Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly an
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
@@ -270,6 +272,7 @@
 
 ## fastapi 
 
+- [colfin22/intro-quiz](https://github.com/colfin22/intro-quiz) - Self-hosted "guess the intro" music quiz for family game night — plays your own Navidrome library on a cast TV or speaker, phones are the buzzers. Difficulty from your play counts + Last.fm. No cloud,
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 
@@ -322,6 +325,10 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+
+## home-assistant 
+
+- [colfin22/intro-quiz](https://github.com/colfin22/intro-quiz) - Self-hosted "guess the intro" music quiz for family game night — plays your own Navidrome library on a cast TV or speaker, phones are the buzzers. Difficulty from your play counts + Last.fm. No cloud,
 
 ## html 
 
@@ -489,7 +496,7 @@
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [grimthorpe/clbre](https://github.com/grimthorpe/clbre) - A fork of Calibre called Clbre, because the AI is stripped out.
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
-- [pSpitzner/beets-flask](https://github.com/pSpitzner/beets-flask) - An opinionated docker container for a web-interface around the music organizer beets
+- [metasauce/beets-flask](https://github.com/metasauce/beets-flask) - An opinionated docker container for a web-interface around the music organizer beets
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [itzg/minecraft-server-charts](https://github.com/itzg/minecraft-server-charts) - 
@@ -643,6 +650,7 @@
 
 ## self-hosted 
 
+- [colfin22/intro-quiz](https://github.com/colfin22/intro-quiz) - Self-hosted "guess the intro" music quiz for family game night — plays your own Navidrome library on a cast TV or speaker, phones are the buzzers. Difficulty from your play counts + Last.fm. No cloud,
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [madiele/vod2pod-rss](https://github.com/madiele/vod2pod-rss) - Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly an
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
