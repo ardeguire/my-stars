@@ -167,6 +167,7 @@
 
 ## Python 
 
+- [colfin22/intro-quiz](https://github.com/colfin22/intro-quiz) - Self-hosted "guess the intro" music quiz for family game night — plays your own Navidrome library on a cast TV or speaker, phones are the buzzers. Difficulty from your play counts + Last.fm. No cloud,
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
@@ -255,7 +256,7 @@
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
-- [pSpitzner/beets-flask](https://github.com/pSpitzner/beets-flask) - An opinionated docker container for a web-interface around the music organizer beets
+- [metasauce/beets-flask](https://github.com/metasauce/beets-flask) - An opinionated docker container for a web-interface around the music organizer beets
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae) - Web UI for managing Traefik
