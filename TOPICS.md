@@ -542,7 +542,7 @@
 - [benblazak/ergodox-firmware](https://github.com/benblazak/ergodox-firmware) - firmware for the ergoDOX keyboard
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [karlheyes/icecast-kh](https://github.com/karlheyes/icecast-kh) - KH branch of icecast
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [meta/watchman](https://github.com/meta/watchman) - Watches files and records, or triggers actions, when they change.
 - [localhots/musicbrainz](https://github.com/localhots/musicbrainz) - MusicBrainz Web Service client
 - [treeio/treeio](https://github.com/treeio/treeio) - Tree.io
 - [drdrang/planner-inserts](https://github.com/drdrang/planner-inserts) - A set of PostScript and PDF files for Cornell-type paper in letter and junior sizes.
